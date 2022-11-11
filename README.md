@@ -2,6 +2,7 @@
 
 https://raw.githubusercontent.com/RodrigoMvs123/Web-Monetization-API-Tutorial-How-to-Add-Microtransactions-to-a-Website/main/README.md
 
+https://github.com/RodrigoMvs123/Web-Monetization-API-Tutorial-How-to-Add-Microtransactions-to-a-Website/blame/main/README.md
 
 https://www.youtube.com/watch?v=XwzcrhhyDkc
 
